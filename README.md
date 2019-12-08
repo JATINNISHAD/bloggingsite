@@ -1,3 +1,3 @@
-blogging site 
-node modules will be added automatically after creating package.json file
+Just a sample of Blogging App
+made with Nodejs and Express
 
